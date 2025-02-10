@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pedroov
 - 👀 I’m interested in Games and tecnology in general
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on some projects with C++ to improve my knowledge
+- 🌱 I’m currently learning and programming in Python
+- 💞️ I’m looking to collaborate on some Python projects to improve my knowledge
 - 📫 How to reach me here and on my social medias.
 
 <!---
